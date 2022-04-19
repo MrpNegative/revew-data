@@ -8,7 +8,7 @@
     "description": "Start your journey with a 30-minute evaluation of your gaming skills from your  V-Sensei and receive a personalized plan to improve."
   },
   {
-    "name": "SKILLS ASSESSMENT",
+    "name": "ONE-ON-ONE COACHING",
     "price": 45,
     "Time": 1,
     "id": 2,
@@ -16,7 +16,7 @@
     "description": "Step into a live, one-on-one training session designed to help you improve your personal skills in the specific character of your choice."
   },
   {
-    "name": "SKILLS ASSESSMENT",
+    "name": "TEAM SESSIONS",
     "price": 99,
     "Time": 1,
     "id": 3,
