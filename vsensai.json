@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SKILLS ASSESSMENT",
+    "price": 15,
+    "Time": 0.5,
+    "id": 1,
+    "img": "https://i.ibb.co/C0jrvMq/skil.jpg",
+    "description": "Start your journey with a 30-minute evaluation of your gaming skills from your  V-Sensei and receive a personalized plan to improve."
+  },
+  {
+    "name": "SKILLS ASSESSMENT",
+    "price": 45,
+    "Time": 1,
+    "id": 2,
+    "img": "https://i.ibb.co/VJFVTLY/one1.jpg",
+    "description": "Step into a live, one-on-one training session designed to help you improve your personal skills in the specific character of your choice."
+  },
+  {
+    "name": "SKILLS ASSESSMENT",
+    "price": 99,
+    "Time": 1,
+    "id": 3,
+    "img": "https://i.ibb.co/t83R02Y/team1.jpg",
+    "description": "Squad up, dive deep into team tactics, and learn how to communicate, coordinate, and dominate on the virtual battlefield from a your V-Sensei."
+  }
+]
